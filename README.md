@@ -37,21 +37,63 @@
 
 ## 📊 Профессиональные навыки
 
-| Категория       | Технологии                                                                 | Уровень          |
-| --------------- | -------------------------------------------------------------------------- | ---------------- |
-| **Языки**       | JavaScript (ES6+), TypeScript, Python, HTML5, CSS3                         | Продвинутый      |
-| **Фреймворки**  | React, React Native, Node.js                                               | Средний          |
-| **Стилизация**  | Tailwind CSS, CSS Modules, Flexbox/Grid, адаптивная вёрстка                | Продвинутый      |
-| **Инструменты** | Git, Vite, Webpack, Figma, Zustand, Redux Toolkit                          | Практикующий     |
-| **Креатив**     | Видеомонтаж (Premiere Pro), 3D (Blender), Digital Art, основы UI/UX       | Опытный          |
+<table width="100%" border="0" cellpadding="8" style="border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #5d6dff;">
+      <th width="25%" align="left">Категория</th>
+      <th width="55%" align="left">Технологии</th>
+      <th width="20%" align="left">Уровень</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Языки</strong></td>
+      <td>JavaScript (ES6+), TypeScript, Python, HTML5, CSS3</td>
+      <td>Продвинутый</td>
+    </tr>
+    <tr>
+      <td><strong>Фреймворки</strong></td>
+      <td>React, React Native, Node.js</td>
+      <td>Средний</td>
+    </tr>
+    <tr>
+      <td><strong>Стилизация</strong></td>
+      <td>Tailwind CSS, CSS Modules, Flexbox/Grid, адаптивная вёрстка</td>
+      <td>Продвинутый</td>
+    </tr>
+    <tr>
+      <td><strong>Инструменты</strong></td>
+      <td>Git, Vite, Webpack, Figma, Zustand, Redux Toolkit</td>
+      <td>Практикующий</td>
+    </tr>
+    <tr>
+      <td><strong>Креатив</strong></td>
+      <td>Видеомонтаж (Premiere Pro), 3D (Blender), Digital Art, основы UI/UX</td>
+      <td>Опытный</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 🚀 Проекты
 
-| Название | Стек | Описание |
-| :--- | :--- | :--- |
-| **[BAIKAL CODE](https://BaikalCode.ru)** | *Уточняется* | Основной проект в разработке. Информация будет дополнена. |
+<table width="100%" border="0" cellpadding="8" style="border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #5d6dff;;">
+      <th width="25%" align="left">Название</th>
+      <th width="25%" align="left">Стек</th>
+      <th width="50%" align="left">Описание</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong><a href="https://BaikalCode.ru">BAIKAL CODE</a></strong></td>
+      <td><em>Уточняется</em></td>
+      <td>Основной проект в разработке. Информация будет дополнена.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
