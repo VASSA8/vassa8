@@ -40,12 +40,29 @@
 
 ---
 
+## 👨‍💻 Крупные проекты
+
+<table>
+  <tr>
+    <td width="30%">
+      <img src="https://github.com/VASSA8/vassa8/blob/main/assets/project-1.jpg" alt="Проект-1" style="border-radius: 20px;">
+    </td>
+    <td width="70%">
+      <h3>Байкад Код</h3>
+      <p>Создал студию цифровых решений для бизнеса. Берём на себя всё, что связано с цифровым присутствием: от сайтов до ботов и соцсетей.</p>
+    </td>
+  </tr>
+</table>
+
+
+---
+
 ## 🏆 Хакатоны и Чемпионаты
 
 <table>
   <tr>
     <td width="30%">
-      <img src="https://github.com/VASSA8/vassa8/blob/main/assets/hackathon-1.png" alt="Хакатон" style="border-radius: 20px;">
+      <img src="https://github.com/VASSA8/vassa8/blob/main/assets/hackathon-1.png" alt="Хакатон-1" style="border-radius: 20px;">
     </td>
     <td width="70%">
       <h3>🥇 1 место — «Цифровое будущее» (Забайкалье, 2026)</h3>
