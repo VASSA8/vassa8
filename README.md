@@ -1,17 +1,11 @@
 [![Header](https://github.com/VASSA8/vassa8/blob/main/assets/header.jpg)](https://t.me/vaccabich)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=646CFF&center=true&vCenter=true&width=600&lines=Frontend+%2B+UX%2FUI+Designer;Строю+интерфейсы+от+прототипа+до+продакшна;Из+Забайкалья+—+для+всего+мира" alt="Typing SVG" />
-</p>
-
----
-
 ##  👾 Обо мне
 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github.com/VASSA8/vassa8/blob/main/assets/header.jpg" alt="Это я" style="border-radius: 20px;">
+      <img src="https://github.com/VASSA8/vassa8/blob/main/assets/me.jpg" alt="Это я" style="border-radius: 20px;">
       <br><em>Фото из последнего хакатона</em>
     </td>
     <td width="50%">
@@ -40,7 +34,7 @@
       </ul>
     </td>
     <td width="50%">
-      <img src="https://github.com/VASSA8/vassa8/blob/main/assets/header.jpg" alt="Суперсилы" style="border-radius: 20px;">
+      <img src="https://github.com/VASSA8/vassa8/blob/main/assets/me2.jpg" alt="Суперсилы" style="border-radius: 20px;">
     </td>
   </tr>
 </table>
@@ -66,7 +60,7 @@
 <table>
   <tr>
     <td width="30%">
-      <img src="https://via.placeholder.com/300x200/646CFF/ffffff?text=Хакатон+2026" alt="Хакатон" style="border-radius: 20px;">
+      <img src="https://github.com/VASSA8/vassa8/blob/main/assets/hackathon-1.jpg" alt="Хакатон" style="border-radius: 20px;">
     </td>
     <td width="70%">
       <h3>🥇 1 место — «Цифровое будущее» (Забайкалье, 2026)</h3>
