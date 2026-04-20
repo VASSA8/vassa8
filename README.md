@@ -4,7 +4,6 @@
   <tr>
     <td width="50%">
       <img src="https://github.com/VASSA8/vassa8/blob/main/assets/me.jpg" alt="Это я" style="border-radius: 20px;">
-      <br><em>Фото из последнего хакатона</em>
     </td>
     <td width="50%">
       <h3>👋 Привет, я Костя</h3>
@@ -20,15 +19,17 @@
 
 ## ⚡ Мои суперсилы (коротко)
 
+## ⚡ Мои суперсилы
+
 <table>
   <tr>
     <td width="50%">
-      <ul>
-        <p>🎨 <strong>Вайбкодинг</strong> — прототипы, которые сразу «дышат»</li>
-        <p>🧩 <strong>Атомарный дизайн</strong> — компоненты как Lego</li>
-        <p>📱 <strong>Адаптивная вёрстка</strong> — без лишних div'ов</li>
-        <p>✨ <strong>UI-анимация</strong> — плавные переходы, микровзаимодействия</li>
-        <p>🧹 <strong>Рефакторинг</strong> — уменьшаю время перерендера</l>
+      <ul style="list-style: none; padding-left: 0;">
+        <li style="margin-bottom: 12px;">- <strong>Вайбкодинг</strong> — делаю прототипы, красивые и отзывчивые</li>
+        <li style="margin-bottom: 12px;">- <strong>Атомарный дизайн</strong> — компоненты как конструктор</li>
+        <li style="margin-bottom: 12px;">- <strong>Адаптивная вёрстка</strong> — без лишних div'ов</li>
+        <li style="margin-bottom: 12px;">- <strong>UI-анимация</strong> — плавные переходы, микровзаимодействия</li>
+        <li style="margin-bottom: 12px;">- <strong>Семантическая вёрстка</strong> — доступность и SEO</li>
       </ul>
     </td>
     <td width="50%">
