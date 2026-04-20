@@ -17,29 +17,6 @@
 
 ---
 
-## ⚡ Мои суперсилы (коротко)
-
-## ⚡ Мои суперсилы
-
-<table>
-  <tr>
-    <td width="50%">
-      <ul style="list-style: none; padding-left: 0;">
-        <li style="margin-bottom: 12px;">- <strong>Вайбкодинг</strong> — делаю прототипы, красивые и отзывчивые</li>
-        <li style="margin-bottom: 12px;">- <strong>Атомарный дизайн</strong> — компоненты как конструктор</li>
-        <li style="margin-bottom: 12px;">- <strong>Адаптивная вёрстка</strong> — без лишних div'ов</li>
-        <li style="margin-bottom: 12px;">- <strong>UI-анимация</strong> — плавные переходы, микровзаимодействия</li>
-        <li style="margin-bottom: 12px;">- <strong>Семантическая вёрстка</strong> — доступность и SEO</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <img src="https://github.com/VASSA8/vassa8/blob/main/assets/me2.jpg" alt="Суперсилы" style="border-radius: 20px;">
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠 Технологии 
 
 <p align="center">
