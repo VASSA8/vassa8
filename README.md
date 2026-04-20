@@ -1,7 +1,5 @@
 [![Header](https://github.com/VASSA8/vassa8/blob/main/assets/header.jpg)](https://t.me/vaccabich)
 
-##  👾 Обо мне
-
 <table>
   <tr>
     <td width="50%">
@@ -26,11 +24,11 @@
   <tr>
     <td width="50%">
       <ul>
-        <li>🎨 <strong>Вайбкодинг</strong> — прототипы, которые сразу «дышат»</li>
-        <li>🧩 <strong>Атомарный дизайн</strong> — компоненты как Lego</li>
-        <li>📱 <strong>Адаптивная вёрстка</strong> — без лишних div'ов</li>
-        <li>✨ <strong>UI-анимация</strong> — плавные переходы, микровзаимодействия</li>
-        <li>🧹 <strong>Рефакторинг</strong> — уменьшаю время перерендера</li>
+        <p>🎨 <strong>Вайбкодинг</strong> — прототипы, которые сразу «дышат»</li>
+        <p>🧩 <strong>Атомарный дизайн</strong> — компоненты как Lego</li>
+        <p>📱 <strong>Адаптивная вёрстка</strong> — без лишних div'ов</li>
+        <p>✨ <strong>UI-анимация</strong> — плавные переходы, микровзаимодействия</li>
+        <p>🧹 <strong>Рефакторинг</strong> — уменьшаю время перерендера</l>
       </ul>
     </td>
     <td width="50%">
@@ -41,17 +39,26 @@
 
 ---
 
-## 🛠 Технологии (с иконками)
+## 🛠 Технологии 
 
-| **Frontend** | **Backend & БД** | **Инструменты** | **Дизайн** |
-|--------------|------------------|----------------|-------------|
-| TypeScript   | Node.js          | Git            | Figma       |
-| React        | Express          | ESLint/Prettier| Photoshop   |
-| Vite         | SQLite           | GitHub Actions | Premiere Pro|
-| Tailwind CSS | REST API         |                | Blender     |
-| React Native |                  |                |             |
-
-> *Полный стек: TypeScript, React, Vite, Tailwind, React Native, Node.js, Express, SQLite, Git, Figma, Photoshop, Premiere, Blender.*
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+</p>
 
 ---
 
@@ -60,7 +67,7 @@
 <table>
   <tr>
     <td width="30%">
-      <img src="https://github.com/VASSA8/vassa8/blob/main/assets/hackathon-1.jpg" alt="Хакатон" style="border-radius: 20px;">
+      <img src="https://github.com/VASSA8/vassa8/blob/main/assets/hackathon-1.png" alt="Хакатон" style="border-radius: 20px;">
     </td>
     <td width="70%">
       <h3>🥇 1 место — «Цифровое будущее» (Забайкалье, 2026)</h3>
@@ -73,24 +80,14 @@
 
 ---
 
-## 📈 GitHub в цифрах
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VASSA8&theme=transparent&hide_border=true&stroke=646CFF&ring=646CFF&fire=646CFF&currStreakNum=646CFF" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VASSA8&layout=compact&theme=transparent&hide_border=true&title_color=646CFF&text_color=ffffff" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VASSA8&theme=transparent&hide_border=true&stroke=646CFF&ring=646CFF&fire=646CFF&currStreakNum=646CFF" width="85%" />
 </p>
 
----
-
-## 📫 Давай на связи
 
 <p align="center">
   <a href="https://t.me/vaccabich"><img src="https://img.shields.io/badge/Telegram-@vaccabich-646CFF?style=for-the-badge&logo=telegram&logoColor=white&color=646CFF" /></a>
   <a href="https://github.com/VASSA8"><img src="https://img.shields.io/badge/GitHub-VASSA8-646CFF?style=for-the-badge&logo=github&logoColor=white&color=646CFF" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VASSA8&label=👀+Просмотров&color=646CFF&style=flat-square" />
 </p>
 
 <p align="center">
