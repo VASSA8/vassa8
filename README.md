@@ -78,7 +78,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VASSA8&theme=transparent&hide_border=true&stroke=646CFF&ring=646CFF&fire=646CFF&currStreakNum=646CFF" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VASSA8&count_private=true&theme=transparent&hide_border=true&stroke=646CFF&ring=646CFF&fire=646CFF&currStreakNum=646CFF)" width="85%" />
 </p>
 
 
